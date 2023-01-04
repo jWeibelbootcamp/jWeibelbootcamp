@@ -11,9 +11,7 @@ I am a fullstack web developer from Atlanta, Georgia
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />]
 (https://stackoverflow.com/users/19854263/jason-weibel)
 <br>
-<br>
 ## Expertise
-<br>
 <br>
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
