@@ -1,29 +1,16 @@
 <div>
-<a href="https://jweibelbootcamp.github.io/jason-weibel-portfolio/"><img src="https://github.com/frozzel/portfolio/blob/cb2596cc11791998a213e03e73fe9fca9ccbae84/src/assets/images/Screen%20Shot%202022-11-18%20at%209.05.56%20PM.png" align="center" height="" width="100%" ></a></div>
+<a href="https://jweibelbootcamp.github.io/jason-weibel-portfolio/"><img src="./assets/images/website.png" style="width=100%; border-style:solid; border-color:grey; background-color: white; border-width: 1px border-radius: 5px;"></a></div>
+
+<h2 style="text-align: center;"> ^^ Portfolio ^^ </h2>
 
 ---
 
 ## About Me :
 
-  Motivated Full Stack Web Developer and Junior Salesforce Administrator looking to join a growing team to continue building and improving on my Salesforce platform and Web Development capabilities. Can provide administration and customization of internal and outward facing Salesforce products and front end/backend web development. Looking for a key position in a dynamic and entrepreneurial environment that is focused on growing a suite of products and services.
+  Full Stack (MERN) Web Developer looking to join a team and continue building my web developing capabilities. Can provide front-end/back-end web development. 
 
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/dhickox1)
-[![GMAIL](https://img.shields.io/badge/Email_Me-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:frozzel@me.com)  [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/dennis-hickox-1b0a10227)  [![Linkedin](https://img.shields.io/badge/Portfolio-7033FD.svg?style=for-the-badge&logo=SecurityScorecard&logoColor=white)](https://frozzel.github.io/dennis-hickox/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeHPkw1Uk9QhMTu35Yf1FBQ/featured)
+[![GMAIL](https://img.shields.io/badge/Email_Me-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:weibel.jason@gmail.com)  [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jason-weibel/)  [![Linkedin](https://img.shields.io/badge/Portfolio-7033FD.svg?style=for-the-badge&logo=SecurityScorecard&logoColor=white)](https://jweibelbootcamp.github.io/jason-weibel-portfolio/)
 
-
----
-
-### The Following Sites predominatly use a Heroku deployment. You can click on the image to take you to the site but be aware that Heroku sleeps all sites to conserve on resources and the sites will load slowly when first init().
-
----
-
-
-
----
-
-### Portfolio
-
-Portfolio to display all my MERN Developer skills. This application is a example of a front-end create a React app case usage. It utilizes email contact forms and animate.css, iframe video streaming, React-router-dom technologies.
 
 ---
 
